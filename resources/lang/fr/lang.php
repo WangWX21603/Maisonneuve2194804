@@ -1,0 +1,63 @@
+<?php
+//fr
+return [
+
+    'english'     => 'Anglais',
+    'french'     => 'Français',
+    'name'     => 'Nom',
+    'email'     => 'Courriel',
+    'password'     => 'Mot de Passe',    
+    'phone'     => 'Téléphone',
+    'birthday'     => 'Date de Naissance',
+    'city'     => 'Ville',
+    'address'     => 'Adresse',
+    'updated_time'     => 'Heure mise à jour',
+
+    'login'   => 'Se connerter',
+    'logout'   => 'Déconnecter',
+    'hello'   => 'Bonjour',
+    'signup'   => 'Inscrivez-vous maintenant',
+    'create_account'   => 'Créez votre compte',
+    'submit' => 'Soumettre',
+    'save'     => 'Sauvegarder',
+    'delete'     => 'Effacer',
+    'update'     => 'Mettre à jour',
+    'close'     => 'Ferme',
+    'return'     => 'Retourner',
+    'upload_file'     => 'Télécharger ce fichier',
+    'go'     => 'Cliquer ici',    
+
+    'author'   => 'Auteur',
+    'student_list'   => 'Liste des étudiants',
+    'add_student'     => 'Ajouter un étudiant',
+    'update_student'     => 'Modifier un étudiant',
+    'delete_student'     => 'Effacer un étudiant',
+    'forum'     => 'Forum',
+    'add_article'     => 'Ajouter un article',
+    'add_article_title'     => 'Ajouter un article',
+    'update_article'     => 'Mettre à jour un article',
+    'title_article_en'     => 'Titre en anglais',
+    'title_article_fr'     => 'Titre en francais',
+    'contenu_article_en'     => 'Contenu en anglais',
+    'contenu_article_fr'     => 'Contenu en francais',
+    'article_empty'     => 'Aucun article est disponible',
+    'forum_title'     => 'Forum du Collège',
+    'forum_description'     => 'Un lieu où les idées et les points de vue peuvent être échangés.',
+
+    'add_file'     => 'Ajouter fichier',
+    'file_list'     => 'Le répertoire de documents',
+    'msg_no_file'  => 'Aucun document disponible.',
+    'msg_success_article'  => 'Article ajouté avec success.',
+    'msg_success'  => 'Fichier téléchargé avec success.',
+    'msg_question'  => 'Êtes-vous certain de vouloir effacer les données de ',
+    'msg_success_stu'  => 'Etudiant ajouté avec success.',
+    'update_file'     => 'Mettre à jour un fichier',
+    'document_directory'     => 'Répertoire de documents',
+    'hero'     => 'Bienvenue sur Notre Site ',
+    'copyright'     => 'Copyright',
+    'policy'     => 'Politique de confidentialité',
+    'terms'     => "Conditions d/'utilisation",
+
+
+];
+
